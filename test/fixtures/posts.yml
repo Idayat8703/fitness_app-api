@@ -4,8 +4,20 @@
 # model remove the '{}' from the fixture names and add the columns immediately
 # below each fixture, per the syntax in the comments below
 #
-one: {}
+one:
+  date: 2017-10-10
+  context: Myinfo
+  food: Veggie Burritto
+  workout: I ran ten miles
+  weight: 125
 # column: value
 #
-two: {}
+two:
+    date: 2017-10-10
+    context: Idayat Oshobajo
+    food: Salad
+    workout: Swim
+    weight: 190
+
+
 # column: value
